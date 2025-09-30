@@ -1,0 +1,1 @@
+# Efficient-On-Device-Detection-of-Cereal-Crop-Diseases-using-MobileNetV2
